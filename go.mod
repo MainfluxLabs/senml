@@ -1,4 +1,4 @@
-module github.com/mainflux/senml
+module github.com/MainfluxLabs/senml
 
 go 1.18
 
